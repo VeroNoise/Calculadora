@@ -1,10 +1,9 @@
-
 body {
 	font-family: "Helvetica";
 	background-color: pink;
 }
 
-h1{
+h1 {
 	display: auto; 
 	border: solid hsla(255, 255%, 255%, 0.3);
 	padding-top: 0.3em;
@@ -14,7 +13,7 @@ h1{
 	text-align: center;
 }
 
-form{
+form {
 	width: 50%;
 /*	max-width: 400%; */
 	text-align: center;
@@ -26,11 +25,10 @@ form{
 	background-color: #52002a;
 	border: 2px solid black;
 }
+
 .calculator {
 	width:90%;
 	margin:auto;
-
-
 }
 
 .botonera {
@@ -71,7 +69,7 @@ a:focus, input:focus, button:focus {
 }
 
 a:focus, input:focus, button:focus {
-	box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.25) ;
+	box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.25);
 	outline: 0; 
 }    
 
